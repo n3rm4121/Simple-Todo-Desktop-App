@@ -3,6 +3,7 @@
 #include <QFile>
 #include <QTextStream>
 #include <QMessageBox>
+#include <QDebug>
 
 
 // Add event filter to listen for key press events
